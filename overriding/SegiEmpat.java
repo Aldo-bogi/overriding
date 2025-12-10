@@ -6,7 +6,7 @@ package overriding;
 
 /**
  *
- * @author jauza
+ * @author aldo
  */
 public class SegiEmpat extends BangunDatar{
     public double panjang,lebar,diagonal;
@@ -30,3 +30,4 @@ public class SegiEmpat extends BangunDatar{
         super.tampilData();
     }
 }
+
