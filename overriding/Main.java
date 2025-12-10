@@ -6,7 +6,7 @@ package overriding;
 
 /**
  *
- * @author jauza
+ * @author aldo
  */
 public class Main {
     public static void main(String[]argv){
@@ -28,3 +28,4 @@ public class Main {
         
     }
 }
+
