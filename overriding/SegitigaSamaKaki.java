@@ -6,7 +6,7 @@ package overriding;
 
 /**
  *
- * @author jauza
+ * @author aldo
  */
 public class SegitigaSamaKaki extends BangunDatar{
     public double alas,tinggi;
@@ -28,3 +28,4 @@ public class SegitigaSamaKaki extends BangunDatar{
     }
     
 }
+
