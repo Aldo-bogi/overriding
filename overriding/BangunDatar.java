@@ -6,7 +6,7 @@ package overriding;
 
 /**
  *
- * @author jauza
+ * @author aldo
  */
 public class BangunDatar {
     public double luas,keliling;
@@ -23,3 +23,4 @@ public class BangunDatar {
     }
     
 }
+
