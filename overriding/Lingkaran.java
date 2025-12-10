@@ -6,7 +6,7 @@ package overriding;
 
 /**
  *
- * @author jauza
+ * @author aldo
  */
 public class Lingkaran extends BangunDatar{
     public double jariJari;
@@ -25,3 +25,4 @@ public class Lingkaran extends BangunDatar{
         super.tampilData();
     }
 }
+
